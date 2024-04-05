@@ -2,11 +2,13 @@ FROM ubuntu:20.04
 
 WORKDIR /app
 
-COPY /src /app
+# COPY /src /app
 
 RUN apt-get update 
 
 RUN apt-get install -y python3 python3-pip
+
+COPY /src /app
 
 RUN pip3 install -r requirements.txt
 

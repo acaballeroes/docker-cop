@@ -1,8 +1,0 @@
-{
-  "version": 2,
-  "dgSpecHash": "1iBKiiCUrI0cyPHqG9bTGhpLdbFa7f4XPN9NQ9x4TjQNiYY2GUcX7TK0tspSZeNYbTqS6c/kf/chq9GFGxqF4A==",
-  "success": true,
-  "projectFilePath": "C:\\dev\\docker-cop\\01-buld-images\\02-hellow-world\\src\\HelloWorld.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
-}
